@@ -1,5 +1,7 @@
 # Java Snake Game
 
+![Game Preview](snake.png)
+
 This is a classic Snake game implemented in Java using Swing for the GUI.
 
 ## Project Structure
